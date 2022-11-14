@@ -29,7 +29,7 @@
 <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"/>
 </a>
 
-<a href="reddit.com/u/hesam760">
+<a href="https://reddit.com/u/hesam760">
 <img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg"/>
 </a>
 </p>
