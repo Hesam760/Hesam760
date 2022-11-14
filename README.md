@@ -12,7 +12,5 @@
 </p>
 
 
-<div style="display: flex; flex-direction: row; align=center;">
  <img class="img" align="center" src="https://github-readme-stats.vercel.app/api?username=Hesam760&show_icons=true&theme=radical"/>
  <img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam760&theme=radical&layout=compact"/>
-</div>
