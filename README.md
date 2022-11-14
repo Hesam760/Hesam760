@@ -20,5 +20,6 @@
 </p>
 
 <h2>&nbsp;📞 Contact Me : </h2>
-
-	![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
+<a href="https://t.me/hesam760">
+<img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"/>
+</a>
