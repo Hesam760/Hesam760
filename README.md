@@ -1,6 +1,9 @@
+<p align="middle">
 <img src="https://capsule-render.vercel.app/api?&type=wave&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90" />
+</p>
 
 <h2> 🚀 &nbsp;Some Language I Have Used and Learned : </h2>
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
@@ -12,6 +15,6 @@
 </p>
 
 <p align="middle">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=Hesam760&show_icons=true&theme=radical" width="500"/>
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam760&theme=radical&layout=compact" width="500"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Hesam760&show_icons=true&theme=radical" width="400"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam760&theme=radical&layout=compact" width="400"/>
 </p>
