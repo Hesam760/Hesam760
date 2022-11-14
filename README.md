@@ -20,4 +20,4 @@
 </p>
 
 <h2>&nbsp;📞 Contact Me : </h2>
-<a href="https://t.me">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
