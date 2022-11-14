@@ -12,5 +12,5 @@
 </p>
 
 
- <img class="img" align="center" src="https://github-readme-stats.vercel.app/api?username=Hesam760&show_icons=true&theme=radical"/>
- <img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam760&theme=radical&layout=compact"/>
+ <img class="img" width="425" src="https://github-readme-stats.vercel.app/api?username=Hesam760&show_icons=true&theme=radical"/>
+ <img class="img" width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam760&theme=radical&layout=compact"/>
