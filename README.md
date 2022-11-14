@@ -12,7 +12,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hesam760&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hesam760/>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam760&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
