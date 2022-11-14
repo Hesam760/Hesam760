@@ -23,3 +23,7 @@
 <a href="https://t.me/hesam760">
 <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"/>
 </a>
+
+<a href="https://discord.com/channels/@me/hesam760#5617/">
+<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"/>
+</a>
