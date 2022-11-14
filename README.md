@@ -11,7 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>         
 </p>
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; text-align = center;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Hesam760&show_icons=true&theme=radical"/>
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam760&theme=radical&layout=compact"/>
 </div>
