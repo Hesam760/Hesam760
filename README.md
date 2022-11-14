@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?text =Hey Everyone !&type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <h2> 🚀 &nbsp;Some Language I Have Used and Learned : </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
