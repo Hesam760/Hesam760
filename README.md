@@ -16,7 +16,7 @@
 [![Hesam760's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hesam760&show_icons=true&theme=radical&ount_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div style="display: grid; flex-direction: row;">
+<div style="display: grid; flex-direction: column;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Hesam760&show_icons=true&theme=radical" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam760&theme=radical&layout=compact" />
 </div>
