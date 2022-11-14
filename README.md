@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>         
 </p>
 
-<p align="middle">
+<p align="middle">My GitHub History 📈
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Hesam760&show_icons=true&theme=radical" width="500"/>
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam760&theme=radical&layout=compact" width="500"/>
 </p>
