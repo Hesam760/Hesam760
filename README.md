@@ -12,6 +12,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam760&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hesam760&show_icons=true&theme=dark&ount_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
