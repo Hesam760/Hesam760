@@ -18,3 +18,6 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Hesam760&show_icons=true&theme=radical" width="500"/>
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam760&theme=radical&layout=compact" width="500"/>
 </p>
+
+<h2>&nbsp;📞 Contact Me : </h2>
+<a href="https://t.me">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
