@@ -15,7 +15,8 @@
 </p>
 <h2>&nbsp;📈 My GitHub History : </h2>
 <p align="middle">
-
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Hesam760&show_icons=true&theme=radical" width="500"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesam760&theme=radical&layout=compact" width="500"/>
 </p>
 
 <h2>&nbsp;📞 Contact Me : </h2>
