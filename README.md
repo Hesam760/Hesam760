@@ -29,10 +29,6 @@
 <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"/>
 </a>
 
-<a href="https://discord.com/channels/@me/hesam760#5617/">
-<img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg"/>
-</a>
-
 <a href="https://reddit.com/u/hesam760">
 <img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg"/>
 </a>
